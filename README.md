@@ -52,3 +52,14 @@ We’re blending timeless curiosity with a sprinkle of absurdity! Enter: the vir
 
 - **Published URL:** [Online Kanniyan - Live Project](https://sandra07alex.github.io/usless_project2/)
 - **GitHub Source Code:** [GitHub Repository - usless_project2](https://github.com/Sandra07alex/usless_project2)
+
+### Drive Link for Additional Demo
+https://drive.google.com/drive/folders/1lPWTQLLPiYQiKNoVTM-NzXLbDwKJLDpw
+
+### Team Contributions
+
+- **Minhas P:** Brought the initial idea for Kanniyan, inspiring a creative, interactive approach to virtual astrology. Additionally, Minhas contributed to designing an intuitive UI layout that makes navigation simple and fun for users.
+
+- **Mohammed Ismail:** Integrated TensorFlow.js for browser-based machine learning to enable real-time hand scanning and OpenCV.js for image processing, allowing precise hand pattern detection. Mohammed also worked on creating interactive elements within the UI, ensuring a smooth and engaging user experience.
+
+- **Sandra Alex:** Developed the backend using JavaScript, handling data processing to ensure a seamless experience. Sandra further enhanced the UI by focusing on visual details and user interaction, adding final touches that make the fortune-telling journey entertaining and accessible.
