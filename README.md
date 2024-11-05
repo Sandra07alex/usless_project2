@@ -5,7 +5,7 @@
 **Team Name:** Zombie Team  
 
 ### Team Members
-- **Team Lead:** Sandra Alex - GEC KKD  
+- **Member 1:** Sandra Alex - GEC KKD  
 - **Member 2:** Mohammed Ismail - GEC KKD  
 - **Member 3:** Minhas P - GEC KKD  
 
